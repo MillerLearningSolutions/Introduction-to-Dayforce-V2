@@ -1,0 +1,57 @@
+{
+  "version": "3.72.29699.0",
+  "course_id": "5geVt2PBLXb",
+  "title": "Help Emily find a Sub",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Try Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6R98RXZjaAX",
+      "title": "Help Emily find a Sub",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5lDiIQKwPAF",
+      "title": "Click the  label",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6IUwiG6FKm4",
+      "title": "Click the group",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6M2JD79I3LM",
+      "title": "Click the Shift trade menu item",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5vLCBooJZKs",
+      "title": "Click the Offer shift to everyone menu item",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6lPje4Mdpvc",
+      "title": "Click the group",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6EnrminFPM9",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1042,
+    "height": 530
+  },
+  "stage": {
+    "width": 1022,
+    "height": 510
+  }
+}
