@@ -1,0 +1,42 @@
+{
+  "version": "3.76.30446.0",
+  "course_id": "5wyNTR2WGr7",
+  "title": "Performing Punches Scenario 3",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Unscheduled Tasks"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5bFbQDKxSbw",
+      "title": "Main screen",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "60GhF6cTCVt",
+      "title": "Punch In",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6CyXoqPKpGO",
+      "title": "Punch Out",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "61zlFgO64nZ",
+      "title": "Congratulations",
+      "scene_index": "1.4"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
